@@ -15,7 +15,7 @@
 #define WIFI_PASSWORD   "2005511028"
 
 /* 演示用的假数据，验证链路通了就删掉，换成真实传感器读数 */
-#define TEST_PUBLISH_PERIOD_MS 4000
+#define TEST_PUBLISH_PERIOD_MS 4500
 
 static void on_wifi_state(bool connected)
 {
